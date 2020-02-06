@@ -9,17 +9,17 @@ author_profile: true
 
 # Teaching Activities
 
-**2018/2020** - Database Systems (Mestrado Integrado em Engenharia Informática, Universidade do Minho) - Invited Professor
+**2018/2020** - Database Systems *(Mestrado Integrado em Engenharia Informática, Universidade do Minho)* - Invited Professor
 
-**2018/2019** - Informatica Laboratories 4 - Software Engineering (Mestrado Integrado em Engenharia Informática, Universidade do Minho) - Invited Professor
+**2018/2019** - Informatica Laboratories 4 - Software Engineering *(Mestrado Integrado em Engenharia Informática, Universidade do Minho)* - Invited Professor
 
-**2018/2019** - Database Systems (Licenciatura em Ciências da Computação, Universidade do Minho) - Invited Professor
+**2018/2019** - Database Systems *(Licenciatura em Ciências da Computação, Universidade do Minho)* - Invited Professor
 
-**2018** -  Object Oriented Programming (Especialização em Programação de Computadores para Reconversão de Licenciados, Programa Qualifica-IT) - Professor
+**2018** -  Object Oriented Programming *(Especialização em Programação de Computadores para Reconversão de Licenciados, Programa Qualifica-IT)* - Professor
 
-**2015/2018** - Analysis and Software Testing (Mestrado Integrado em Engenharia Informática, Universidade do Minho) -  Professor's Assistant
+**2015/2018** - Analysis and Software Testing *(Mestrado Integrado em Engenharia Informática, Universidade do Minho)* -  Professor's Assistant
 
-**2013/2014** - Web Applications Engineering (Mestrado em Engenharia Informática, Universidade do Minho) - Professor's Assistant
+**2013/2014** - Web Applications Engineering *(Mestrado em Engenharia Informática, Universidade do Minho)* - Professor's Assistant
 
 
 # MSc Thesis Supervision
