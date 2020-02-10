@@ -9,11 +9,13 @@ main:
   - title: "Teaching and Supervision"
     url: /teaching/  
 
+  - title: "Projects"
+    url: /projects/
+
   #- title: "Talks"
   #  url: /talks/    
     
-  #- title: "Projects"
-  #  url: /portfolio/
+  
         
   #- title: "Blog Posts"
   #  url: /year-archive/
