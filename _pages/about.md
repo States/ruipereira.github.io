@@ -20,6 +20,6 @@ Current interests focus on:
 
 **Green Software** - analyzing and optimizing the energy consumption of software systems; targeting the lack of knowledge and tools which programmers currently have access to. 
 
-**Humanized Software Systems** - improving the usability and human interaction of programs; closing the gap between programmers and end-users (spreadsheet usage, data science, visual programming); 
+**Humanized Software Systems** - improving the usability and human interaction of programs; closing the gap between programmers and end-users (low-code, spreadsheet usage, data science, visual programming); 
 
 
