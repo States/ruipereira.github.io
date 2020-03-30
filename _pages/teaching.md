@@ -9,6 +9,8 @@ author_profile: true
 
 # Teaching Activities
 
+**2020/** - Scalable Technologies for Data Analysis *(Mestrado em Engenharia Informática, Instituto Politécnico do Porto - Escola Superior de Technologia e Gestão)* - Invited Professor
+
 **2018/2020** - Database Systems *(Mestrado Integrado em Engenharia Informática, Universidade do Minho)* - Invited Professor
 
 **2018/2019** - Informatica Laboratories 4 - Software Engineering *(Mestrado Integrado em Engenharia Informática, Universidade do Minho)* - Invited Professor
