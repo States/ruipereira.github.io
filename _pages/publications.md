@@ -10,8 +10,8 @@ You can also find my publications on <u><a target="_blank" href="{{site.author.g
 ### 2020
 
 On Energy Debt: Managing Consumption on Evolving Software  
-Marco Couto, Rui Pereira, Daniel Maia, João Saraiva 
-In 3rd *International Conference on Technical Debt* (TechDebt'20)
+Marco Couto, Rui Pereira, Daniel Maia, João Saraiva  
+In 3rd *International Conference on Technical Debt* (TechDebt'20)  
 (To Appear)
 
 **[Book Chapter]**
