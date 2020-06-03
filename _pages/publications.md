@@ -51,7 +51,7 @@ Rui Pereira, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo
 In Science of Computer Programming - **Submitted**
 
 **[PhD Thesis]**
-[Querying for Model-Driven Spreadsheets.](http://states.github.io/files/t2.pdf)   
+[Energyware Engineering: Techniques and Tools for Green Software Development](http://states.github.io/files/t2.pdf)   
 Rui Pereira  
 Supervised by: Prof. João Saraiva and Prof. Jácome Cunha  
 Universidade do Minho, Universidade de Aveiro, and Universidade do Porto (MAP-i)
