@@ -9,6 +9,7 @@ author_profile: true
 
 # Research Member in funded projects
 
+- *[DEV4ALL](https://www.outsystems.com/news/low-code-research-carnegie-mellon-portugal-2020)* - Development for All - Towards a Society of Software Developers, co-financed by [OutSystems](https://www.outsystems.com)
 - *[Cloud Computing Competence Centre](http://wordpress.ubi.pt/c4/)* - Software Validation & Verification-as-a-Plugin
 - *Quantitative Program Analysis* - FLAD/NSF 275/2016
 - *Software Repositories for Green Computing* - FLAD/NSF 300/2015
@@ -22,7 +23,8 @@ author_profile: true
 
 # Research Collaborations
 
-- *[Green Software Lab](http://greenlab.di.uminho.pt)* - Research group workign on reduction energy consumption in software.
+- *[Cloud Computing Competence Centre](http://wordpress.ubi.pt/c4/)* - Software Validation & Verification-as-a-Plugin
+- *[Green Software Lab](http://greenlab.di.uminho.pt)* - Research group working on reduction energy consumption in software.
 - *[GreenSource](https://greenlab.di.uminho.pt/greensource/)* - A large-scale Android repository with source code, tests and energy metrics.
 - *[GreenHub](https://greenhubproject.org/)* - A collaborative approach to power consumption analysis of Android Devices.
 - *[GreenSoft](https://greensoft.cs.txstate.edu/)* - Community Supporting Research and Education in Energy-Efficient Software Design.
