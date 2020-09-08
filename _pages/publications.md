@@ -9,10 +9,24 @@ You can also find my publications on <u><a target="_blank" href="{{site.author.g
 
 ### 2020
 
-On Energy Debt: Managing Consumption on Evolving Software  
-Marco Couto, Rui Pereira, Daniel Maia, João Saraiva  
-In 3rd *International Conference on Technical Debt* (TechDebt'20)  
+Energy Wars - Chrome vs. Firefox: Which browser is more energy efficient?
+João Aloíso, Nelson Gonçalves, João de Macedo, Rui Pereira, João Saraiva
+In 1st *International Workshop on Sustainable Software Engineering* (SUSTAINSE'20)  
 (To Appear)
+
+E-Debitum: Managing Software Energy Debt
+Daniel Maia, Marco Couto, Rui Pereira, João Saraiva 
+In 1st *International Workshop on Sustainable Software Engineering* (SUSTAINSE'20) 
+(To Appear)
+
+Data Curation: Towards a Tool for All
+José Dias, Jácome Cunha, Rui Pereira
+In 22nd *International Conference on Human-Computer Interaction* (HCII'20) 
+(To Appear)
+
+[On Energy Debt: Managing Consumption on Evolving Software](http://states.github.io/files/p20.pdf)
+Marco Couto, Rui Pereira, Daniel Maia, João Saraiva  
+In 3rd *International Conference on Technical Debt* (TechDebt'20) 
 
 **[Book Chapter]**
 Paint your Programs Green - On the Energy Efficiency of Data Structures.   

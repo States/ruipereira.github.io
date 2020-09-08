@@ -9,7 +9,9 @@ author_profile: true
 
 # Teaching Activities
 
-**2020/** - Scalable Technologies for Data Analysis *(Mestrado em Engenharia Informática, Instituto Politécnico do Porto - Escola Superior de Technologia e Gestão)* - Invited Professor
+**2020/2021** - Software Development Lab *(Licienciatura em Engenharia Informática, Instituto Politécnico do Porto - Escola Superior de Technologia e Gestão)* - Invited Professor
+
+**2019/2020** - Scalable Technologies for Data Analysis *(Mestrado em Engenharia Informática, Instituto Politécnico do Porto - Escola Superior de Technologia e Gestão)* - Invited Professor
 
 **2018/2020** - Database Systems *(Mestrado Integrado em Engenharia Informática, Universidade do Minho)* - Invited Professor
 
@@ -42,6 +44,8 @@ author_profile: true
 # BSc Supervision Activities
 
 ### Concluded:
+
+**2020** - João Aloíso, Nelson Gonçalves, and João de Macedo (BSc students). *Consumo energetico de Browsers* - Projeto Integrado no Mestrado em Engenharia Informática
 
 **2016** - Sandra Isabel Lopes Ferreira (BSc student). *Ranking Verde de Linguagens de Programação* - Projeto Integrado de Metodos Formais em Engenharia Informática
 
