@@ -9,23 +9,23 @@ You can also find my publications on <u><a target="_blank" href="{{site.author.g
 
 ### 2020
 
-Data science for all
-Jácome Cunha, José Dias, Paula Pereira, João P. Fernandes, Rui Pereira
+Data science for all  
+Jácome Cunha, José Dias, Paula Pereira, João P. Fernandes, Rui Pereira  
 In Interrogating Data Science, CSCW Workshop (CSCW'20) 
 (To Appear)
 
-Energy Wars - Chrome vs. Firefox: Which browser is more energy efficient?
-João Aloíso, Nelson Gonçalves, João de Macedo, Rui Pereira, João Saraiva
+Energy Wars - Chrome vs. Firefox: Which browser is more energy efficient?  
+João Aloíso, Nelson Gonçalves, João de Macedo, Rui Pereira, João Saraiva  
 In 1st *International Workshop on Sustainable Software Engineering* (SUSTAINSE'20)  
 (To Appear)
 
-E-Debitum: Managing Software Energy Debt
-Daniel Maia, Marco Couto, Rui Pereira, João Saraiva 
+E-Debitum: Managing Software Energy Debt  
+Daniel Maia, Marco Couto, Rui Pereira, João Saraiva  
 In 1st *International Workshop on Sustainable Software Engineering* (SUSTAINSE'20) 
 (To Appear)
 
-Data Curation: Towards a Tool for All   
-José Dias, Jácome Cunha, Rui Pereira
+Data Curation: Towards a Tool for All  
+José Dias, Jácome Cunha, Rui Pereira  
 In 22nd *International Conference on Human-Computer Interaction* (HCII'20) 
 (To Appear)
 
