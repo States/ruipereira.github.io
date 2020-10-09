@@ -30,15 +30,21 @@ author_profile: true
 
 ### Ongoing:
 
-**2019** - José Miguel Silva Dias. *Low-Code Platform for Data Science* - co-supervisor, with Prof. Jácome Cunha(Universidade do Minho)
+**2020** - Hugo Gião. *Defining Spreadsheet Processes Using Block-Based Languages* - co-supervisor, with Prof. Jácome Cunha (Universidade do Minho)
 
-**2019** - Tiago André Araújo Monteiro. *Energy Consumption Analysis of Database Systems* - co-supervisor, with Prof. João Saraiva (Universidade do Minho)
+**2020** - João Macedo. *On the performance of WebAssembly* - co-supervisor, with Prof. João Saraiva (Univerisdade do Minho) and Prof. Rui Abreu (Univerisdade do Porto)
 
-**2019** - Daniel Fernandes Veiga Maia. *Energy Debt* - co-supervisor, with Prof. João Saraiva (Universidade do Minho)
+**2020** - Nelson Gonçalves. *Energy Efficient of Android Browsers* - co-supervisor, with Prof. João Saraiva (Universidade do Minho)
+
+**2019** - José Dias. *Low-Code Platform for Data Science* - co-supervisor, with Prof. Jácome Cunha (Universidade do Minho)
+
+**2019** - Tiago Monteiro. *Energy Consumption Analysis of Database Systems* - co-supervisor, with Prof. João Saraiva (Universidade do Minho)
+
+**2019** - Daniel Maia. *Energy Debt* - co-supervisor, with Prof. João Saraiva (Universidade do Minho)
 
 ### Concluded:
 
-**2018** - Francisco José Torres Ribeiro. *Java stream optimization through program fusion* - co-supervisor, with Prof. João Saraiva (Universidade do Minho)
+**2018** - Francisco Ribeiro. *Java stream optimization through program fusion* - co-supervisor, with Prof. João Saraiva (Universidade do Minho)
 
 
 # BSc Supervision Activities

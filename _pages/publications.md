@@ -9,6 +9,11 @@ You can also find my publications on <u><a target="_blank" href="{{site.author.g
 
 ### 2020
 
+Data science for all
+Jácome Cunha, José Dias, Paula Pereira, João P. Fernandes, Rui Pereira
+In Interrogating Data Science, CSCW Workshop (CSCW'20) 
+(To Appear)
+
 Energy Wars - Chrome vs. Firefox: Which browser is more energy efficient?
 João Aloíso, Nelson Gonçalves, João de Macedo, Rui Pereira, João Saraiva
 In 1st *International Workshop on Sustainable Software Engineering* (SUSTAINSE'20)  
