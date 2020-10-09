@@ -24,7 +24,7 @@ Daniel Maia, Marco Couto, Rui Pereira, João Saraiva
 In 1st *International Workshop on Sustainable Software Engineering* (SUSTAINSE'20) 
 (To Appear)
 
-Data Curation: Towards a Tool for All
+Data Curation: Towards a Tool for All   
 José Dias, Jácome Cunha, Rui Pereira
 In 22nd *International Conference on Human-Computer Interaction* (HCII'20) 
 (To Appear)
