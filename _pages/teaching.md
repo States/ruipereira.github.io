@@ -34,7 +34,7 @@ author_profile: true
 
 **2020** - João Macedo. *On the performance of WebAssembly* - co-supervisor, with Prof. João Saraiva (Univerisdade do Minho) and Prof. Rui Abreu (Univerisdade do Porto)
 
-**2020** - Nelson Gonçalves. *Energy Efficient of Android Browsers* - co-supervisor, with Prof. João Saraiva (Universidade do Minho)
+**2020** - Nelson Gonçalves. *Energy Efficiency of Android Browsers* - co-supervisor, with Prof. João Saraiva (Universidade do Minho)
 
 **2019** - José Dias. *Low-Code Platform for Data Science* - co-supervisor, with Prof. Jácome Cunha (Universidade do Minho)
 
