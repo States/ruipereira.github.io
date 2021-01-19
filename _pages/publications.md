@@ -9,6 +9,12 @@ You can also find my publications on <u><a target="_blank" href="{{site.author.g
 
 ### 2021
 
+
+Bringing Green Software to Computer Science Curriculum - Perspectives from Researchers and Educators  
+João Saraiva, Rui Pereira and Ziliang Zong  
+In 26th annual conference on Innovation and Technology in Computer Science Education (ITiCSE), (Paderborn, Germany, 2021) - **Submitted**
+
+
 **[Journal]**
 Ranking Programming Languages by Energy Efficiency.  
 Rui Pereira, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo Fernandes, João Saraiva  
@@ -22,6 +28,15 @@ In Journal of Empirical Software Engineering
 (To Appear)
 
 ### 2020
+
+**[Book Chapter]**
+Energy Efficient Software in an Engineering Course  
+João Saraiva and Rui Pereira  
+Revised Selected Papers of the Composability, Comprehensibility and Correctness (3COWS) Winter School  
+(Kosice, Slovakia),  
+Lectures Notes in Computer Science (LNCS), Springer,  
+Tutorial Paper - **Submitted**
+
 
 Data science for all  
 Jácome Cunha, José Dias, Paula Pereira, João P. Fernandes, Rui Pereira  
