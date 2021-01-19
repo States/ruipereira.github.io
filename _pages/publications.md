@@ -7,6 +7,20 @@ author_profile: true
 
 You can also find my publications on <u><a target="_blank" href="{{site.author.googlescholar}}">Google Scholar</a></u> and <u><a target="_blank" href="{{site.author.dblp}}">DBLP</a></u>.
 
+### 2021
+
+**[Journal]**
+Ranking Programming Languages by Energy Efficiency.  
+Rui Pereira, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo Fernandes, João Saraiva  
+In Journal of Science of Computer Programming 
+(To Appear)
+
+**[Journal]**
+GreenHub: A Large-Scale Collaborative Approach to Battery Consumption Analysis of Android Devices.  
+Rui Pereira, Hugo Matalonga, Marco Couto, Fernando Castor, Bruno Cabral, Pedro Carvalho, Simão Melo de Sousa, João Paulo Fernandes  
+In Journal of Empirical Software Engineering
+(To Appear)
+
 ### 2020
 
 Data science for all  
@@ -51,11 +65,6 @@ In Journal of Systems and Software 161 (2020)
 
 ### 2019
 
-**[Journal]**
-GreenHub: A Large-Scale Collaborative Approach to Battery Consumption Analysis of Android Devices.  
-Rui Pereira, Hugo Matalonga, Marco Couto, Fernando Castor, Bruno Cabral, Pedro Carvalho, Simão Melo de Sousa, João Paulo Fernandes  
-In Empirical Software Engineering - **Submitted**
-
 
 [GreenHub Farmer: Real-world data for Android Energy Mining](http://states.github.io/files/p19.pdf)  
 Hugo Matalonga, Bruno Cabral, Fernando Castor, Marco Couto, Rui Pereira, Simão Melo de Sousa, João P. Fernandes  
@@ -63,11 +72,6 @@ In 16th *International Conference on Mining Software Repositories* (MSR’19)
 **Special Mention Award**
 
 ### 2018
-
-**[Journal]**
-Ranking Programming Languages by Energy Efficiency.  
-Rui Pereira, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo Fernandes, João Saraiva  
-In Science of Computer Programming - **Submitted**
 
 **[PhD Thesis]**
 [Energyware Engineering: Techniques and Tools for Green Software Development](http://states.github.io/files/t2.pdf)   
