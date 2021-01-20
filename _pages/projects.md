@@ -9,6 +9,7 @@ author_profile: true
 
 # Research Member in funded projects
 
+- *[SAFER](http://haslab.github.io/SAFER/)* - Safety Verification for Robotic Software
 - *[DEV4ALL](https://www.outsystems.com/news/low-code-research-carnegie-mellon-portugal-2020)* - Development for All - Towards a Society of Software Developers, co-financed by [OutSystems](https://www.outsystems.com)
 - *[Cloud Computing Competence Centre](http://wordpress.ubi.pt/c4/)* - Software Validation & Verification-as-a-Plugin
 - *Quantitative Program Analysis* - FLAD/NSF 275/2016

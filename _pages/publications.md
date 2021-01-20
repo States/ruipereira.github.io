@@ -12,14 +12,7 @@ You can also find my publications on <u><a target="_blank" href="{{site.author.g
 
 Bringing Green Software to Computer Science Curriculum - Perspectives from Researchers and Educators  
 João Saraiva, Rui Pereira and Ziliang Zong  
-In 26th annual conference on Innovation and Technology in Computer Science Education (ITiCSE), (Paderborn, Germany, 2021) - **Submitted**
-
-
-**[Journal]**
-Ranking Programming Languages by Energy Efficiency.  
-Rui Pereira, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo Fernandes, João Saraiva  
-In Journal of Science of Computer Programming 
-(To Appear)
+26th annual conference on Innovation and Technology in Computer Science Education (ITiCSE) - **Submitted**
 
 **[Journal]**
 GreenHub: A Large-Scale Collaborative Approach to Battery Consumption Analysis of Android Devices.  
@@ -27,13 +20,17 @@ Rui Pereira, Hugo Matalonga, Marco Couto, Fernando Castor, Bruno Cabral, Pedro C
 In Journal of Empirical Software Engineering
 (To Appear)
 
+**[Journal]**
+[Ranking Programming Languages by Energy Efficiency](https://www.sciencedirect.com/science/article/abs/pii/S0167642321000022)  
+Rui Pereira, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo Fernandes, João Saraiva  
+In Journal of Science of Computer Programming 
+
 ### 2020
 
 **[Book Chapter]**
 Energy Efficient Software in an Engineering Course  
 João Saraiva and Rui Pereira  
 Revised Selected Papers of the Composability, Comprehensibility and Correctness (3COWS) Winter School  
-(Kosice, Slovakia),  
 Lectures Notes in Computer Science (LNCS), Springer,  
 Tutorial Paper - **Submitted**
 
