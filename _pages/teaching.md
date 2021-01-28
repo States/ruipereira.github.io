@@ -30,6 +30,8 @@ author_profile: true
 
 ### Ongoing:
 
+**2020** - Raphael Oliveira. *Automated Energyware Program Repair* - co-supervisor, with Prof. João Saraiva (Universidade do Minho)
+
 **2020** - Hugo Gião. *Defining Spreadsheet Processes Using Block-Based Languages* - co-supervisor, with Prof. Jácome Cunha (Universidade do Minho)
 
 **2020** - João Macedo. *On the performance of WebAssembly* - co-supervisor, with Prof. João Saraiva (Univerisdade do Minho) and Prof. Rui Abreu (Univerisdade do Porto)
