@@ -12,12 +12,14 @@ You can also find my publications on <u><a target="_blank" href="{{site.author.g
 
 Bringing Green Software to Computer Science Curriculum - Perspectives from Researchers and Educators  
 João Saraiva, Rui Pereira and Ziliang Zong  
-26th annual conference on Innovation and Technology in Computer Science Education (ITiCSE) - **Submitted**
+26th annual conference on Innovation and Technology in Computer Science Education (ITiCSE)  
+(To Appear)
+
 
 **[Journal]**
 GreenHub: A Large-Scale Collaborative Approach to Battery Consumption Analysis of Android Devices.  
 Rui Pereira, Hugo Matalonga, Marco Couto, Fernando Castor, Bruno Cabral, Pedro Carvalho, Simão Melo de Sousa, João Paulo Fernandes  
-In Journal of Empirical Software Engineering
+In Journal of Empirical Software Engineering  
 (To Appear)
 
 **[Journal]**

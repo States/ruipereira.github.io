@@ -22,8 +22,9 @@ author_profile: true
 
 # Program Commitee
 
+- 25th Brazilian Symposium on Programming Languages (SBLP'2021)
 - International Conference on Smart Applications and Data Analysis for Smart Cyber-Physical Systems
-(SADASC’2020)
+(SADASC'2020)
 - 1st International Workshop on Sustainable Software Engineering co-located with ASE'2020 (SUSTAINSE'2020)
 
 
