@@ -9,21 +9,17 @@ You can also find my publications on <u><a target="_blank" href="{{site.author.g
 
 ### 2021
 
-
-Bringing Green Software to Computer Science Curriculum - Perspectives from Researchers and Educators  
+[Bringing Green Software to Computer Science Curriculum - Perspectives from Researchers and Educators](http://states.github.io/files/p25.pdf)  
 João Saraiva, Rui Pereira and Ziliang Zong  
 26th annual conference on Innovation and Technology in Computer Science Education (ITiCSE)  
-(To Appear)
-
 
 **[Journal]**
-GreenHub: A Large-Scale Collaborative Approach to Battery Consumption Analysis of Android Devices.  
+[GreenHub: A Large-Scale Collaborative Approach to Battery Consumption Analysis of Android Devices](http://states.github.io/files/j4.pdf)  
 Rui Pereira, Hugo Matalonga, Marco Couto, Fernando Castor, Bruno Cabral, Pedro Carvalho, Simão Melo de Sousa, João Paulo Fernandes  
 In Journal of Empirical Software Engineering  
-(To Appear)
 
 **[Journal]**
-[Ranking Programming Languages by Energy Efficiency](https://www.sciencedirect.com/science/article/abs/pii/S0167642321000022)  
+[Ranking Programming Languages by Energy Efficiency](http://states.github.io/files/j2.pdf)  
 Rui Pereira, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo Fernandes, João Saraiva  
 In Journal of Science of Computer Programming 
 
@@ -36,29 +32,24 @@ Revised Selected Papers of the Composability, Comprehensibility and Correctness 
 Lectures Notes in Computer Science (LNCS), Springer,  
 Tutorial Paper - **Submitted**
 
-
-Data science for all  
+[Data science for all](http://states.github.io/files/p24.pdf) 
 Jácome Cunha, José Dias, Paula Pereira, João P. Fernandes, Rui Pereira  
 In Interrogating Data Science, CSCW Workshop (CSCW'20) 
-(To Appear)
 
-Energy Wars - Chrome vs. Firefox: Which browser is more energy efficient?  
+[Energy Wars - Chrome vs. Firefox: Which browser is more energy efficient?](http://states.github.io/files/p23.pdf)  
 João Aloíso, Nelson Gonçalves, João de Macedo, Rui Pereira, João Saraiva  
 In 1st *International Workshop on Sustainable Software Engineering* (SUSTAINSE'20)  
-(To Appear)
 
-E-Debitum: Managing Software Energy Debt  
+[E-Debitum: Managing Software Energy Debt](http://states.github.io/files/p22.pdf)  
 Daniel Maia, Marco Couto, Rui Pereira, João Saraiva  
 In 1st *International Workshop on Sustainable Software Engineering* (SUSTAINSE'20) 
-(To Appear)
 
-Data Curation: Towards a Tool for All  
+[Data Curation: Towards a Tool for All](http://states.github.io/files/p21.pdf)   
 José Dias, Jácome Cunha, Rui Pereira  
 In 22nd *International Conference on Human-Computer Interaction* (HCII'20) 
-(To Appear)
 
-[On Energy Debt: Managing Consumption on Evolving Software](http://states.github.io/files/p20.pdf)
-Marco Couto, Rui Pereira, Daniel Maia, João Saraiva  
+[On Energy Debt: Managing Consumption on Evolving Software](http://states.github.io/files/p20.pdf)   
+Marco Couto, Rui Pereira, Daniel Maia, João Saraiva   
 In 3rd *International Conference on Technical Debt* (TechDebt'20) 
 
 **[Book Chapter]**
