@@ -22,6 +22,7 @@ author_profile: true
 
 # Program Commitee
 
+- ACM/SIGPLAN International Conference on Software Language Engineering (SLE'2021) - *Artefact Evaluation Commitee*
 - 25th Brazilian Symposium on Programming Languages (SBLP'2021)
 - International Conference on Smart Applications and Data Analysis for Smart Cyber-Physical Systems
 (SADASC'2020)
@@ -30,4 +31,5 @@ author_profile: true
 
 # Conference Organization
 
-- IEEE Symposium on Visual Languages and Computing (VL/HCC) 2018 – Web and Registration Chair
+- International Conference on ICT For Sustainability (ICT4S'22) - Demonstrations and Posters Co-chair
+- IEEE Symposium on Visual Languages and Computing (VL/HCC'18) – Web and Registration Chair
