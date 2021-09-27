@@ -9,6 +9,21 @@ You can also find my publications on <u><a target="_blank" href="{{site.author.g
 
 ### 2021
 
+Linear Programming Meets Block-based Languages
+Hugo Gião, Rui Pereira, Jácome Cunha
+IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC'21)
+**To Appear* 
+
+Towards a Block-based Language for Linear Programmingt?  
+Hugo Gião, Rui Pereira, Jácome Cunha
+12th National Symposium of Informatics (INForum’21)
+**To Appear* 
+
+On the Runtime and Energy Performance of WebAssembly: Is WebAssembly superior to JavaScript yet?  
+João Macedo, Rui Abreu, Rui Pereira, João Saraiva
+2nd International Workshop on Sustainable Software Engineering (SUSTAINSE’21)
+**To Appear* 
+
 [Bringing Green Software to Computer Science Curriculum - Perspectives from Researchers and Educators](http://states.github.io/files/p25.pdf)  
 João Saraiva, Rui Pereira and Ziliang Zong  
 26th annual conference on Innovation and Technology in Computer Science Education (ITiCSE)  
