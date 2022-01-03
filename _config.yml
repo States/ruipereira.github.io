@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rui"
 title_separator          : "-"
 name                     : &name "Rui Pereira"
-description              : &description "Senior Researcher at HASLab/INESC TEC & Collaborator at Cloud Computing Competence Centre (C4) & Invited Assistant Professor at Polytechnic Institute of Porto - ESTG"
+description              : &description "Team Lead, Software Engineering @ OutSystems"
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "states/states.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rui Pereira"
   avatar           : "me.jpg"
-  bio              : "Senior Researcher @ HASLab/INESC TEC <br /> <br /> Collaborator @ Cloud Computing Competence Centre (C4-UBI) <br /> <br /> Invited Assistant Professor @ Instituto Politécnico do Porto"
+  bio              : "Team Leader, Software Engineering @ OutSystems <br /> <br /> <a>Former:</a> <br /> <br /> Senior Researcher @ HASLab/INESC TEC <br /> <br /> Collaborator @ Cloud Computing Competence Centre (C4-UBI) <br /> <br /> Invited Assistant Professor @ Instituto Politécnico do Porto & University of Minho"
   location         : "Braga, Portugal"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
