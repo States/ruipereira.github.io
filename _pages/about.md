@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have left academia and am currently a Softare Engineering Team Lead at [OutSystems](https://www.outsystems.com/). 
+I have left academia and am currently a Software Engineering Team Lead at [OutSystems](https://www.outsystems.com/). 
 
 I am also a former senior researcher at [HASLab](https://www.inesctec.pt/en/centres/haslab), one of the research units of [INESC TEC](https://www.inesctec.pt), an invited assistant professor at the [Porto Polytechnic Institute - ESTG](https://www.estg.ipp.pt) and at the [University of Minho](https://www.uminho.pt/EN), and a research collaborator (previously postdoc researcher) at [C4 - Cloud Computing Competence Centre](http://c4.ubi.pt/). 
 
